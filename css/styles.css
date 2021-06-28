@@ -409,7 +409,7 @@ ul {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../imades/herobg.jpg);
+    url(../images/herobg.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -560,19 +560,19 @@ ul {
   background-position: center;
 }
 .icon-antenna::before {
-  background-image: url(../imades/icons/antenna.svg);
+  background-image: url(../images/icons/antenna.svg);
   background-size: 70px 70px;
 }
 .icon-clock::before {
-  background-image: url(../imades/icons/clock.svg);
+  background-image: url(../images/icons/clock.svg);
   background-size: 70px 70px;
 }
 .icon-diagram::before {
-  background-image: url(../imades/icons/diagram.svg);
+  background-image: url(../images/icons/diagram.svg);
   background-size: 70px 70px;
 }
 .icon-astronaut::before {
-  background-image: url(../imades/icons/astronaut.svg);
+  background-image: url(../images/icons/astronaut.svg);
   background-size: 70px 70px;
 }
 
